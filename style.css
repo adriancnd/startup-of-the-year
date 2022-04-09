@@ -15,7 +15,7 @@ body {
 }
 
 img {
-  max-width: 400px;
+  max-width: 100%;
 }
 
 h1,
@@ -84,6 +84,7 @@ ul {
 
 .header img {
   max-width: 400px;
+  max-height: 400px;
 }
 
 .header .container {
